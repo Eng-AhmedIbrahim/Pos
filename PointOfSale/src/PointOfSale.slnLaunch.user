@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "POS.API\\POS.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ERPFront\\ERPFront.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

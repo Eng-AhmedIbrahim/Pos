@@ -1,0 +1,12 @@
+D:\POS\PointOfSale\src\POS.Authorization\bin\Debug\net8.0\POS.Authorization.deps.json
+D:\POS\PointOfSale\src\POS.Authorization\bin\Debug\net8.0\POS.Authorization.dll
+D:\POS\PointOfSale\src\POS.Authorization\bin\Debug\net8.0\POS.Authorization.pdb
+D:\POS\PointOfSale\src\POS.Authorization\obj\Debug\net8.0\POS.Authorization.GeneratedMSBuildEditorConfig.editorconfig
+D:\POS\PointOfSale\src\POS.Authorization\obj\Debug\net8.0\POS.Authorization.AssemblyInfoInputs.cache
+D:\POS\PointOfSale\src\POS.Authorization\obj\Debug\net8.0\POS.Authorization.AssemblyInfo.cs
+D:\POS\PointOfSale\src\POS.Authorization\obj\Debug\net8.0\POS.Authorization.csproj.CoreCompileInputs.cache
+D:\POS\PointOfSale\src\POS.Authorization\obj\Debug\net8.0\POS.Authorization.sourcelink.json
+D:\POS\PointOfSale\src\POS.Authorization\obj\Debug\net8.0\POS.Authorization.dll
+D:\POS\PointOfSale\src\POS.Authorization\obj\Debug\net8.0\refint\POS.Authorization.dll
+D:\POS\PointOfSale\src\POS.Authorization\obj\Debug\net8.0\POS.Authorization.pdb
+D:\POS\PointOfSale\src\POS.Authorization\obj\Debug\net8.0\ref\POS.Authorization.dll

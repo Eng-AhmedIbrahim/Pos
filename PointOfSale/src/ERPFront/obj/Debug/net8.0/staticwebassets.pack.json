@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\POS\\PointOfSale\\src\\ERPFront\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ERPFront.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ERPFront.mqbnef59m9.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\POS\\PointOfSale\\src\\ERPFront\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\POS\\PointOfSale\\src\\ERPFront\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\POS\\PointOfSale\\src\\ERPFront\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\POS\\PointOfSale\\src\\ERPFront\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\POS\\PointOfSale\\src\\ERPFront\\wwwroot\\images\\Logo.png",
+      "PackagePath": "staticwebassets\\images\\Logo.png"
+    },
+    {
+      "Id": "D:\\POS\\PointOfSale\\src\\ERPFront\\wwwroot\\pos.css",
+      "PackagePath": "staticwebassets\\pos.css"
+    },
+    {
+      "Id": "D:\\POS\\PointOfSale\\src\\ERPFront\\wwwroot\\site.js",
+      "PackagePath": "staticwebassets\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ERPFront.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ERPFront.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ERPFront.props",
+      "PackagePath": "build\\ERPFront.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ERPFront.props",
+      "PackagePath": "buildMultiTargeting\\ERPFront.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ERPFront.props",
+      "PackagePath": "buildTransitive\\ERPFront.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

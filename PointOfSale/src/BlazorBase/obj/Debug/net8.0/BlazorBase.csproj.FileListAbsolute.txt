@@ -1,0 +1,149 @@
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\BlazorBase.staticwebassets.runtime.json
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\BlazorBase.staticwebassets.endpoints.json
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\LatoFont\OFL.txt
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\BlazorBase.deps.json
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\BlazorBase.dll
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\BlazorBase.pdb
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\POS.Contract.dll
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\POS.Reports.dll
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\POS.Contract.pdb
+D:\POS\PointOfSale\src\Common\BlazorBase\bin\Debug\net8.0\POS.Reports.pdb
+D:\POS\PointOfSale\src\Common\BlazorBase\obj\Debug\net8.0\BlazorBase.csproj.AssemblyReference.cache
+D:\POS\PointOfSale\src\Common\BlazorBase\obj\Debug\net8.0\BlazorBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\POS\PointOfSale\src\Common\BlazorBase\obj\Debug\net8.0\BlazorBase.AssemblyInfoInputs.cache
+D:\POS\PointOfSale\src\Common\BlazorBase\obj\Debug\net8.0\BlazorBase.AssemblyInfo.cs
+D:\POS\PointOfSale\src\Common\BlazorBase\obj\Debug\net8.0\BlazorBase.csproj.CoreCompileInputs.cache
+D:\POS\PointOfSale\src\Common\BlazorBase\obj\Debug\net8.0\BlazorBase.sourcelink.json
+D:\POS\PointOfSale\src\Common\BlazorBase\obj\Debug\net8.0\scopedcss\bundle\BlazorBase.styles.css
+D:\POS\PointOfSale\src\Common\BlazorBase\obj\Debug\net8.0\staticwebassets.build.json
+D:\POS\PointOfSale\src\Common\BlazorBase\obj\Debug\net8.0\staticwebassets.development.json
+D:\POS\PointOfSale\src\Common\BlazorBase\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\POS\PointOfSale\src\Common\BlazorBase\obj\Debug\net8.0\staticwebassets\msbuild.BlazorBase.Microsoft.AspNetCore.StaticWebAssets.props
+D:\POS\PointOfSale\src\Common\BlazorBase\obj\Debug\net8.0\staticwebassets\msbuild.BlazorBase.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\POS\PointOfSale\src\Common\BlazorBase\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorBase.props
+D:\POS\PointOfSale\src\Common\BlazorBase\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorBase.props
+D:\POS\PointOfSale\src\Common\BlazorBase\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorBase.props
+D:\POS\PointOfSale\src\Common\BlazorBase\obj\Debug\net8.0\staticwebassets.pack.json
+D:\POS\PointOfSale\src\Common\BlazorBase\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\POS\PointOfSale\src\Common\BlazorBase\obj\Debug\net8.0\BlazorBase.csproj.Up2Date
+D:\POS\PointOfSale\src\Common\BlazorBase\obj\Debug\net8.0\BlazorBase.dll
+D:\POS\PointOfSale\src\Common\BlazorBase\obj\Debug\net8.0\refint\BlazorBase.dll
+D:\POS\PointOfSale\src\Common\BlazorBase\obj\Debug\net8.0\BlazorBase.pdb
+D:\POS\PointOfSale\src\Common\BlazorBase\obj\Debug\net8.0\ref\BlazorBase.dll
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\BlazorBase.staticwebassets.runtime.json
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\BlazorBase.staticwebassets.endpoints.json
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\LatoFont\OFL.txt
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\BlazorBase.deps.json
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\BlazorBase.dll
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\BlazorBase.pdb
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\POS.Contract.dll
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\POS.Reports.dll
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\POS.Contract.pdb
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\bin\Debug\net8.0\POS.Reports.pdb
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\obj\Debug\net8.0\BlazorBase.csproj.AssemblyReference.cache
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\obj\Debug\net8.0\BlazorBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\obj\Debug\net8.0\BlazorBase.AssemblyInfoInputs.cache
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\obj\Debug\net8.0\BlazorBase.AssemblyInfo.cs
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\obj\Debug\net8.0\BlazorBase.csproj.CoreCompileInputs.cache
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\obj\Debug\net8.0\scopedcss\bundle\BlazorBase.styles.css
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\obj\Debug\net8.0\staticwebassets\msbuild.BlazorBase.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\obj\Debug\net8.0\staticwebassets\msbuild.BlazorBase.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorBase.props
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorBase.props
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorBase.props
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\obj\Debug\net8.0\BlazorBase.csproj.Up2Date
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\obj\Debug\net8.0\BlazorBase.dll
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\obj\Debug\net8.0\refint\BlazorBase.dll
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\obj\Debug\net8.0\BlazorBase.pdb
+C:\Users\roma2\Desktop\New folder (2)\BlazorBase\obj\Debug\net8.0\ref\BlazorBase.dll
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\BlazorBase.staticwebassets.runtime.json
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\BlazorBase.staticwebassets.endpoints.json
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-Black.ttf
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-BlackItalic.ttf
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-Bold.ttf
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-BoldItalic.ttf
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-ExtraBold.ttf
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-ExtraLight.ttf
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-Italic.ttf
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-Light.ttf
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-LightItalic.ttf
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-Medium.ttf
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-MediumItalic.ttf
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-Regular.ttf
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-SemiBold.ttf
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-Thin.ttf
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\LatoFont\Lato-ThinItalic.ttf
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\LatoFont\OFL.txt
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\BlazorBase.deps.json
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\BlazorBase.dll
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\BlazorBase.pdb
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\POS.Contract.dll
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\POS.Reports.dll
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\POS.Contract.pdb
+D:\POS\PointOfSale\src\BlazorBase\bin\Debug\net8.0\POS.Reports.pdb
+D:\POS\PointOfSale\src\BlazorBase\obj\Debug\net8.0\BlazorBase.csproj.AssemblyReference.cache
+D:\POS\PointOfSale\src\BlazorBase\obj\Debug\net8.0\BlazorBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\POS\PointOfSale\src\BlazorBase\obj\Debug\net8.0\BlazorBase.AssemblyInfoInputs.cache
+D:\POS\PointOfSale\src\BlazorBase\obj\Debug\net8.0\BlazorBase.AssemblyInfo.cs
+D:\POS\PointOfSale\src\BlazorBase\obj\Debug\net8.0\BlazorBase.csproj.CoreCompileInputs.cache
+D:\POS\PointOfSale\src\BlazorBase\obj\Debug\net8.0\BlazorBase.sourcelink.json
+D:\POS\PointOfSale\src\BlazorBase\obj\Debug\net8.0\scopedcss\bundle\BlazorBase.styles.css
+D:\POS\PointOfSale\src\BlazorBase\obj\Debug\net8.0\staticwebassets.build.json
+D:\POS\PointOfSale\src\BlazorBase\obj\Debug\net8.0\staticwebassets.development.json
+D:\POS\PointOfSale\src\BlazorBase\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\POS\PointOfSale\src\BlazorBase\obj\Debug\net8.0\staticwebassets\msbuild.BlazorBase.Microsoft.AspNetCore.StaticWebAssets.props
+D:\POS\PointOfSale\src\BlazorBase\obj\Debug\net8.0\staticwebassets\msbuild.BlazorBase.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\POS\PointOfSale\src\BlazorBase\obj\Debug\net8.0\staticwebassets\msbuild.build.BlazorBase.props
+D:\POS\PointOfSale\src\BlazorBase\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BlazorBase.props
+D:\POS\PointOfSale\src\BlazorBase\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BlazorBase.props
+D:\POS\PointOfSale\src\BlazorBase\obj\Debug\net8.0\staticwebassets.pack.json
+D:\POS\PointOfSale\src\BlazorBase\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\POS\PointOfSale\src\BlazorBase\obj\Debug\net8.0\BlazorBase.csproj.Up2Date
+D:\POS\PointOfSale\src\BlazorBase\obj\Debug\net8.0\BlazorBase.dll
+D:\POS\PointOfSale\src\BlazorBase\obj\Debug\net8.0\refint\BlazorBase.dll
+D:\POS\PointOfSale\src\BlazorBase\obj\Debug\net8.0\BlazorBase.pdb
+D:\POS\PointOfSale\src\BlazorBase\obj\Debug\net8.0\ref\BlazorBase.dll
